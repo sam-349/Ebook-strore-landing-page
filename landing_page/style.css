@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.hero{
+    background: #F7EC00;
+}
+
+.btn{
+    background:#5322A8;
+}
+
+.btn:hover{
+    background: #5d13db;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #5322A8;
+}
+
+.testimonials{
+    background: #5d13db;
+}
+
+.pricing{
+    background: #F7EC00;
+}
+
+.footer{
+    background: #F7EC00;
+}
+
+.nav a li{
+    color: #eee;
+}
